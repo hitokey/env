@@ -1,4 +1,4 @@
-name: mydeep
+name: gui
 channels:
   - pytorch
   - conda-forge
@@ -176,5 +176,5 @@ dependencies:
     - pyimage==0.1.1
     - pytesseract==0.3.0
     - rsa==4.0
-prefix: C:\Users\pedro.luiz\.conda\envs\mydeep
+prefix: /home/pedro/anaconda3/
 
